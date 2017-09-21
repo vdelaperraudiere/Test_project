@@ -4,6 +4,7 @@
 
 void sayHello()
 {
+	int i;
 	i = 0; /* initialisation de i à la valeur 0 */
 	while (i<1000) /* exécution tant que la valeur i est inférieure à 1000 */
 	{
