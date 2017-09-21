@@ -5,4 +5,7 @@
 void sayHello()
 {
 	printf("Hello\n");
+	while (true)
+	{
+	}
 }
