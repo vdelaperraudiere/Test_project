@@ -1,2 +1,2 @@
 # Test_project
-[![Build Status](http://jenkins.nextflow-software.com:8080/buildStatus/icon?job=NESSIE)](http://jenkins.nextflow-software.com:8080/job/NESSIE/)
+<a href='http://jenkins.nextflow-software.com:8080/job/NESSIE/'><img src='http://jenkins.nextflow-software.com:8080/job/NESSIE/badge/icon'></a>
